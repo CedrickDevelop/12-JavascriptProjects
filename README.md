@@ -9,4 +9,5 @@ Plusieurs petits projets sont présents dans ce répertoire :
   - DRAGANDDROP : Affichage de photo au hasard importées du net et déplacement de celles ci dans une box // Html + JS + CSS
   - JEU DU MORPION : Petit jeu de morpion à 2 humains (pas d'IA) //Html + CSS + JS
   - CASSE BRIQUES : Petit jeu de casse brique avec victoire et défaite // Html + CSS + JS + CANVAS
+  - CUSTOM LECTEUR VIDEO : Petit lecteur video facon youtube avec barre de chargement et choix de l'emplacement // Html + CSS + JS
 
